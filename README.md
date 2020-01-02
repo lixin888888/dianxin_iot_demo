@@ -1,0 +1,2 @@
+# dianxin_iot_demo
+本项目是电信IOT平台上报和下发数据的demo
